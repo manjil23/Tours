@@ -1,0 +1,11 @@
+.tourscss {
+  display: flex;
+  gap: 20px;
+}
+
+.TourStruct {
+  width: 25vw;
+  border: 1px #0e0d0d solid;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
